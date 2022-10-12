@@ -16,3 +16,5 @@ npm init -y
 ``
 npm i express nodemon dotenv mysql
 ``
+
+#### change values of mysql config into file .env
